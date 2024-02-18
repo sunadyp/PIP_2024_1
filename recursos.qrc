@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>Imagenes/logoCT.png</file>
+    <file>logo fit.png</file>
+    <file>logo uat.png</file>
+  </qresource>
+  <qresource prefix="variadas">
+    <file>adan.jpg</file>
+    <file>cristobal.jpg</file>
+    <file>pavel.jpg</file>
+    <file>poncho.jpg</file>
+  </qresource>
+</RCC>
